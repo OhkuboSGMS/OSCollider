@@ -7,9 +7,9 @@ Cone Collider はBoxColliderを使って空洞があるシリンダーのよう�
 
 ![use2](https://github.com/OhkuboSGMS/OSCollider/blob/master/2018-05-08%2020-32-23.gif)
 
-1.GameObjectにスクリプトをアタッチ
-2.Updateボタンを押す
-3.値を調整
+1. GameObjectにスクリプトをアタッチ
+2. Updateボタンを押す
+3. 値を調整
 
 # その他
 Attach ObjectにGameObjectをアタッチするとそのオブジェクトにBoxColliderを追加して並べます。
